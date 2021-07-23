@@ -3,6 +3,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/chronoserrano?color=%231DA1F2&label=Twitter&logo=twitter&style=flat-square)][twitter]
 ---
 <details>
+  <summary>:zap: Top Languages</summary>
+  <img alt="ChronoSerrano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronoserrano" />
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ChronoSerrano's GitHub Stats" src="https://github-readme-stats-chronoserrano.vercel.app/api?username=chronoserrano&show_icons=true&hide_border=true&count_private=true&hide=contribs" />
