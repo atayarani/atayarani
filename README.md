@@ -1,5 +1,14 @@
 [<img align="left" alt="ChronoSerrano | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" />][linkedin]
 
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ChronoSerrano's GitHub Stats" src="https://github-readme-stats-chronoserrano.vercel.app/api?username=chronoserrano&show_icons=true&hide_border=true&count_private=true&hide=contribs" />
+
+</details>
+
+
 [linkedin]: https://www.linkedin.com/in/alitayarani/
 <!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
