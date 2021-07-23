@@ -1,4 +1,6 @@
-[<img align="left" alt="ChronoSerrano | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" />][linkedin]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin)
+![Twitter Follow](https://img.shields.io/twitter/follow/chronoserrano?color=%231DA1F2&label=Twitter&logo=twitter&style=flat-square)
+
 
 ---
 <details>
