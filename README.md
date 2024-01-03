@@ -1,6 +1,5 @@
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin)][linkedin]<br />
-[![Twitter Follow](https://img.shields.io/twitter/follow/chronoserrano?color=%231DA1F2&label=Twitter&logo=twitter&style=flat-square)][twitter]
 ---
 <details>
   <summary>:zap: Top Languages</summary>
