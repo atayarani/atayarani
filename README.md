@@ -3,13 +3,13 @@
 ---
 <details>
   <summary>:zap: Top Languages</summary>
-  <img alt="ChronoSerrano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronoserrano" />
+  <img alt="Ali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atayarani" />
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ChronoSerrano's GitHub Stats" src="https://github-readme-stats-chronoserrano.vercel.app/api?username=chronoserrano&show_icons=true&hide_border=true&count_private=true&hide=contribs" />
+  <img align="left" alt="Ali's GitHub Stats" src="https://github-readme-stats-chronoserrano.vercel.app/api?username=atayarani&show_icons=true&hide_border=true&count_private=true&hide=contribs" />
 
 </details>
 
